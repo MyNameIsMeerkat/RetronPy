@@ -1,7 +1,7 @@
 # RetronPy
 A collection of Python tools / libraries useful for manipulating ROMs &amp; IPS files for use with the [Retron](http://hyperkin.com/Retron5/) console from Hyperkin.
 
-I began writing them as there didn't seem to be any good cross-platform IPS generation tools, or base IPS functionality upon which to extend and build useful ROM utilities.
+I began writing them as there didn't seem to be any good cross-platform IPS generation tools or base IPS functionality upon which to extend and build useful ROM utilities.
 
 They are shared as others may find them useful for their own projects.
 
@@ -12,7 +12,7 @@ More libraries and utilities will get added as and when I need to do something n
 
 The use case for the IPS tools is if you are wanting to generate IPS files against a phsyical cart in the Retron system and then use IPS patch menu to replace the physical cartridges image with that of a different ROM entirely.
 
-*If you are unsure, a video explaining how to do IPS ROM patching on the Retron console by twfdisturbed is [here](https://www.youtube.com/watch?v=w5Kbv4i_q60).*
+*If you are unsure, a video explaining how to apply IPS patch files on the Retron console by twfdisturbed is [here](https://www.youtube.com/watch?v=w5Kbv4i_q60).*
 
 **Disclaimer**
 
