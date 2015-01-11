@@ -20,7 +20,7 @@ The use case for the IPS tools is if you are wanting to generate IPS files again
 You should only generate IPS files against images of ROMs you legally own or that are no longer under copyright and freely available. Using these tools for pirating ROMs is bad mmmkay 
 ```
 
-##IpsMulti
+##IpsMulti.py
 
 IpsMulti uses the `IPS.py` class to be able to generate IPS patch files for all ROM files found in a directory structure beneath a given starting point. All discovered ROM files have IPS files generated against a supplied *base rom* file.
 
